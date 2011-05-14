@@ -1,0 +1,39 @@
+2011-05-07 15:32:53,122 INFO Starting analysis of Coffee dataset
+2011-05-07 15:33:05,569 INFO Coffee | 1-NN Local Complexity Invariant DTW error rate: 21.428571%
+2011-05-07 15:33:17,246 INFO Coffee | 1-NN Local and Global Complexity Invariant DTW error rate: 21.428571%
+2011-05-07 15:33:17,260 INFO Starting analysis of Beef dataset
+2011-05-07 15:33:49,160 INFO Beef | 1-NN Local Complexity Invariant DTW error rate: 43.333333%
+2011-05-07 15:34:22,247 INFO Beef | 1-NN Local and Global Complexity Invariant DTW error rate: 43.333333%
+2011-05-07 15:34:22,265 INFO Starting analysis of OliveOil dataset
+2011-05-07 15:35:07,724 INFO OliveOil | 1-NN Local Complexity Invariant DTW error rate: 13.333333%
+2011-05-07 15:35:53,416 INFO OliveOil | 1-NN Local and Global Complexity Invariant DTW error rate: 13.333333%
+2011-05-07 15:35:53,461 INFO Starting analysis of Lighting2 dataset
+2011-05-07 15:39:46,114 INFO Lighting2 | 1-NN Local Complexity Invariant DTW error rate: 19.672131%
+2011-05-07 15:43:41,991 INFO Lighting2 | 1-NN Local and Global Complexity Invariant DTW error rate: 16.393443%
+2011-05-07 15:43:42,062 INFO Starting analysis of Lighting7 dataset
+2011-05-07 15:45:22,153 INFO Lighting7 | 1-NN Local Complexity Invariant DTW error rate: 21.917808%
+2011-05-07 15:47:01,954 INFO Lighting7 | 1-NN Local and Global Complexity Invariant DTW error rate: 20.547945%
+2011-05-07 15:47:02,319 INFO Starting analysis of FaceFour dataset
+2011-05-07 15:47:48,975 INFO FaceFour | 1-NN Local Complexity Invariant DTW error rate: 10.227273%
+2011-05-07 15:48:36,500 INFO FaceFour | 1-NN Local and Global Complexity Invariant DTW error rate: 11.363636%
+2011-05-07 15:48:36,956 INFO Starting analysis of ECG200 dataset
+2011-05-07 15:49:11,229 INFO ECG200 | 1-NN Local Complexity Invariant DTW error rate: 13.000000%
+2011-05-07 15:49:45,011 INFO ECG200 | 1-NN Local and Global Complexity Invariant DTW error rate: 12.000000%
+2011-05-07 15:49:45,070 INFO Starting analysis of Trace dataset
+2011-05-07 15:52:27,242 INFO Trace | 1-NN Local Complexity Invariant DTW error rate: 1.000000%
+2011-05-07 15:55:07,827 INFO Trace | 1-NN Local and Global Complexity Invariant DTW error rate: 1.000000%
+2011-05-07 15:55:07,845 INFO Starting analysis of Gun_Point dataset
+2011-05-07 15:55:48,961 INFO Gun_Point | 1-NN Local Complexity Invariant DTW error rate: 4.000000%
+2011-05-07 15:56:32,618 INFO Gun_Point | 1-NN Local and Global Complexity Invariant DTW error rate: 4.000000%
+2011-05-07 15:56:33,058 INFO Starting analysis of Fish dataset
+2011-05-07 16:14:39,519 INFO Fish | 1-NN Local Complexity Invariant DTW error rate: 14.857143%
+2011-05-07 16:33:09,255 INFO Fish | 1-NN Local and Global Complexity Invariant DTW error rate: 14.857143%
+2011-05-07 16:33:09,355 INFO Starting analysis of OSULeaf dataset
+2011-05-07 16:58:17,848 INFO OSULeaf | 1-NN Local Complexity Invariant DTW error rate: 38.016529%
+2011-05-07 17:23:50,112 INFO OSULeaf | 1-NN Local and Global Complexity Invariant DTW error rate: 35.950413%
+2011-05-07 17:23:50,137 INFO Starting analysis of Synthetic_control dataset
+2011-05-07 17:26:43,528 INFO Synthetic_control | 1-NN Local Complexity Invariant DTW error rate: 5.666667%
+2011-05-07 17:29:39,620 INFO Synthetic_control | 1-NN Local and Global Complexity Invariant DTW error rate: 2.666667%
+2011-05-07 17:29:39,684 INFO Starting analysis of DiatomSizeReduction dataset
+2011-05-07 17:31:24,984 INFO DiatomSizeReduction | 1-NN Local Complexity Invariant DTW error rate: 4.248366%
+2011-05-07 17:33:09,172 INFO DiatomSizeReduction | 1-NN Local and Global Complexity Invariant DTW error rate: 4.248366%

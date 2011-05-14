@@ -1,0 +1,91 @@
+2011-05-07 09:11:31,095 INFO Starting analysis of Coffee dataset
+2011-05-07 09:11:31,110 INFO Coffee | 1-NN Euclidean error rate: 21.428571%
+2011-05-07 09:11:38,423 INFO Coffee | 1-NN Best Warping Window DTW error rate: 25.000000%
+2011-05-07 09:11:44,228 INFO Coffee | 1-NN No Warping Window error rate: 21.428571%
+2011-05-07 09:11:50,246 INFO Coffee | 1-NN Complexity Invariant DTW error rate: 25.000000%
+2011-05-07 09:12:01,008 INFO Coffee | 1-NN Local Complexity Invariant DTW error rate: 21.428571%
+2011-05-07 09:12:11,620 INFO Coffee | 1-NN Local and Global Complexity Invariant DTW error rate: 21.428571%
+2011-05-07 09:12:11,634 INFO Starting analysis of Beef dataset
+2011-05-07 09:12:11,648 INFO Beef | 1-NN Euclidean error rate: 53.333333%
+2011-05-07 09:12:27,652 INFO Beef | 1-NN Best Warping Window DTW error rate: 43.333333%
+2011-05-07 09:12:42,486 INFO Beef | 1-NN No Warping Window error rate: 50.000000%
+2011-05-07 09:12:58,209 INFO Beef | 1-NN Complexity Invariant DTW error rate: 43.333333%
+2011-05-07 09:13:28,828 INFO Beef | 1-NN Local Complexity Invariant DTW error rate: 43.333333%
+2011-05-07 09:13:59,553 INFO Beef | 1-NN Local and Global Complexity Invariant DTW error rate: 43.333333%
+2011-05-07 09:13:59,594 INFO Starting analysis of OliveOil dataset
+2011-05-07 09:13:59,620 INFO OliveOil | 1-NN Euclidean error rate: 10.000000%
+2011-05-07 09:14:19,365 INFO OliveOil | 1-NN Best Warping Window DTW error rate: 13.333333%
+2011-05-07 09:14:37,699 INFO OliveOil | 1-NN No Warping Window error rate: 13.333333%
+2011-05-07 09:14:57,677 INFO OliveOil | 1-NN Complexity Invariant DTW error rate: 13.333333%
+2011-05-07 09:15:40,043 INFO OliveOil | 1-NN Local Complexity Invariant DTW error rate: 13.333333%
+2011-05-07 09:16:22,539 INFO OliveOil | 1-NN Local and Global Complexity Invariant DTW error rate: 13.333333%
+2011-05-07 09:16:22,617 INFO Starting analysis of Lighting2 dataset
+2011-05-07 09:16:22,684 INFO Lighting2 | 1-NN Euclidean error rate: 31.147541%
+2011-05-07 09:18:04,675 INFO Lighting2 | 1-NN Best Warping Window DTW error rate: 13.114754%
+2011-05-07 09:19:42,366 INFO Lighting2 | 1-NN No Warping Window error rate: 19.672131%
+2011-05-07 09:21:26,666 INFO Lighting2 | 1-NN Complexity Invariant DTW error rate: 14.754098%
+2011-05-07 09:25:07,359 INFO Lighting2 | 1-NN Local Complexity Invariant DTW error rate: 18.032787%
+2011-05-07 09:28:46,238 INFO Lighting2 | 1-NN Local and Global Complexity Invariant DTW error rate: 18.032787%
+2011-05-07 09:28:46,331 INFO Starting analysis of Lighting7 dataset
+2011-05-07 09:28:46,380 INFO Lighting7 | 1-NN Euclidean error rate: 46.575342%
+2011-05-07 09:29:30,841 INFO Lighting7 | 1-NN Best Warping Window DTW error rate: 20.547945%
+2011-05-07 09:30:14,193 INFO Lighting7 | 1-NN No Warping Window error rate: 23.287671%
+2011-05-07 09:30:58,322 INFO Lighting7 | 1-NN Complexity Invariant DTW error rate: 21.917808%
+2011-05-07 09:32:29,278 INFO Lighting7 | 1-NN Local Complexity Invariant DTW error rate: 28.767123%
+2011-05-07 09:33:59,292 INFO Lighting7 | 1-NN Local and Global Complexity Invariant DTW error rate: 24.657534%
+2011-05-07 09:33:59,382 INFO Starting analysis of FaceFour dataset
+2011-05-07 09:33:59,411 INFO FaceFour | 1-NN Euclidean error rate: 35.227273%
+2011-05-07 09:34:20,687 INFO FaceFour | 1-NN Best Warping Window DTW error rate: 13.636364%
+2011-05-07 09:34:41,050 INFO FaceFour | 1-NN No Warping Window error rate: 15.909091%
+2011-05-07 09:35:03,290 INFO FaceFour | 1-NN Complexity Invariant DTW error rate: 10.227273%
+2011-05-07 09:35:46,699 INFO FaceFour | 1-NN Local Complexity Invariant DTW error rate: 10.227273%
+2011-05-07 09:36:29,666 INFO FaceFour | 1-NN Local and Global Complexity Invariant DTW error rate: 13.636364%
+2011-05-07 09:36:29,716 INFO Starting analysis of ECG200 dataset
+2011-05-07 09:36:29,783 INFO ECG200 | 1-NN Euclidean error rate: 8.000000%
+2011-05-07 09:36:48,488 INFO ECG200 | 1-NN Best Warping Window DTW error rate: 12.000000%
+2011-05-07 09:37:07,011 INFO ECG200 | 1-NN No Warping Window error rate: 20.000000%
+2011-05-07 09:37:25,675 INFO ECG200 | 1-NN Complexity Invariant DTW error rate: 11.000000%
+2011-05-07 09:37:55,937 INFO ECG200 | 1-NN Local Complexity Invariant DTW error rate: 13.000000%
+2011-05-07 09:38:26,203 INFO ECG200 | 1-NN Local and Global Complexity Invariant DTW error rate: 14.000000%
+2011-05-07 09:38:26,297 INFO Starting analysis of Trace dataset
+2011-05-07 09:38:26,375 INFO Trace | 1-NN Euclidean error rate: 23.000000%
+2011-05-07 09:39:45,310 INFO Trace | 1-NN Best Warping Window DTW error rate: 1.000000%
+2011-05-07 09:40:59,789 INFO Trace | 1-NN No Warping Window error rate: 1.000000%
+2011-05-07 09:42:18,986 INFO Trace | 1-NN Complexity Invariant DTW error rate: 1.000000%
+2011-05-07 09:44:48,824 INFO Trace | 1-NN Local Complexity Invariant DTW error rate: 1.000000%
+2011-05-07 09:47:16,932 INFO Trace | 1-NN Local and Global Complexity Invariant DTW error rate: 1.000000%
+2011-05-07 09:47:17,293 INFO Starting analysis of Gun_Point dataset
+2011-05-07 09:47:17,346 INFO Gun_Point | 1-NN Euclidean error rate: 8.000000%
+2011-05-07 09:47:37,211 INFO Gun_Point | 1-NN Best Warping Window DTW error rate: 4.000000%
+2011-05-07 09:47:59,099 INFO Gun_Point | 1-NN No Warping Window error rate: 11.333333%
+2011-05-07 09:48:20,585 INFO Gun_Point | 1-NN Complexity Invariant DTW error rate: 4.000000%
+2011-05-07 09:49:00,126 INFO Gun_Point | 1-NN Local Complexity Invariant DTW error rate: 3.333333%
+2011-05-07 09:49:40,376 INFO Gun_Point | 1-NN Local and Global Complexity Invariant DTW error rate: 3.333333%
+2011-05-07 09:49:40,505 INFO Starting analysis of Fish dataset
+2011-05-07 09:49:40,755 INFO Fish | 1-NN Euclidean error rate: 21.142857%
+2011-05-07 09:58:24,396 INFO Fish | 1-NN Best Warping Window DTW error rate: 14.857143%
+2011-05-07 10:06:20,409 INFO Fish | 1-NN No Warping Window error rate: 15.428571%
+2011-05-07 10:14:46,054 INFO Fish | 1-NN Complexity Invariant DTW error rate: 14.285714%
+2011-05-07 10:31:35,668 INFO Fish | 1-NN Local Complexity Invariant DTW error rate: 14.857143%
+2011-05-07 10:49:42,687 INFO Fish | 1-NN Local and Global Complexity Invariant DTW error rate: 13.714286%
+2011-05-07 10:49:42,847 INFO Starting analysis of OSULeaf dataset
+2011-05-07 10:49:43,249 INFO OSULeaf | 1-NN Euclidean error rate: 52.892562%
+2011-05-07 11:02:45,687 INFO OSULeaf | 1-NN Best Warping Window DTW error rate: 39.256198%
+2011-05-07 11:14:23,519 INFO OSULeaf | 1-NN No Warping Window error rate: 37.190083%
+2011-05-07 11:27:08,427 INFO OSULeaf | 1-NN Complexity Invariant DTW error rate: 37.603306%
+2011-05-07 11:50:36,372 INFO OSULeaf | 1-NN Local Complexity Invariant DTW error rate: 38.429752%
+2011-05-07 12:14:58,655 INFO OSULeaf | 1-NN Local and Global Complexity Invariant DTW error rate: 37.190083%
+2011-05-07 12:14:58,739 INFO Starting analysis of Synthetic_control dataset
+2011-05-07 12:14:59,269 INFO Synthetic_control | 1-NN Euclidean error rate: 50.666667%
+2011-05-07 12:16:58,886 INFO Synthetic_control | 1-NN Best Warping Window DTW error rate: 4.666667%
+2011-05-07 12:18:56,399 INFO Synthetic_control | 1-NN No Warping Window error rate: 5.333333%
+2011-05-07 12:21:00,683 INFO Synthetic_control | 1-NN Complexity Invariant DTW error rate: 3.000000%
+2011-05-07 12:23:44,494 INFO Synthetic_control | 1-NN Local Complexity Invariant DTW error rate: 4.666667%
+2011-05-07 12:26:31,094 INFO Synthetic_control | 1-NN Local and Global Complexity Invariant DTW error rate: 3.333333%
+2011-05-07 12:26:31,245 INFO Starting analysis of DiatomSizeReduction dataset
+2011-05-07 12:26:31,313 INFO DiatomSizeReduction | 1-NN Euclidean error rate: 5.882353%
+2011-05-07 12:27:34,217 INFO DiatomSizeReduction | 1-NN Best Warping Window DTW error rate: 4.575163%
+2011-05-07 12:28:29,219 INFO DiatomSizeReduction | 1-NN No Warping Window error rate: 4.248366%
+2011-05-07 12:29:31,191 INFO DiatomSizeReduction | 1-NN Complexity Invariant DTW error rate: 4.248366%
+2011-05-07 12:31:11,756 INFO DiatomSizeReduction | 1-NN Local Complexity Invariant DTW error rate: 3.921569%
+2011-05-07 12:32:50,682 INFO DiatomSizeReduction | 1-NN Local and Global Complexity Invariant DTW error rate: 3.921569%

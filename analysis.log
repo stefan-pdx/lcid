@@ -1,0 +1,23 @@
+2011-05-14 11:40:00,592 INFO Starting analysis of Coffee dataset
+2011-05-14 11:40:13,228 INFO Coffee | 1-NN Local Complexity Invariant DTW error rate: 25.000000%
+2011-05-14 11:40:25,078 INFO Coffee | 1-NN Local and Global Complexity Invariant DTW error rate: 25.000000%
+2011-05-14 11:40:25,093 INFO Starting analysis of Beef dataset
+2011-05-14 11:40:57,462 INFO Beef | 1-NN Local Complexity Invariant DTW error rate: 40.000000%
+2011-05-14 11:41:31,259 INFO Beef | 1-NN Local and Global Complexity Invariant DTW error rate: 43.333333%
+2011-05-14 11:41:31,277 INFO Starting analysis of OliveOil dataset
+2011-05-14 11:42:17,331 INFO OliveOil | 1-NN Local Complexity Invariant DTW error rate: 13.333333%
+2011-05-14 11:43:03,961 INFO OliveOil | 1-NN Local and Global Complexity Invariant DTW error rate: 13.333333%
+2011-05-14 11:43:04,037 INFO Starting analysis of Lighting2 dataset
+2011-05-14 11:46:59,747 INFO Lighting2 | 1-NN Local Complexity Invariant DTW error rate: 14.754098%
+2011-05-14 11:50:56,119 INFO Lighting2 | 1-NN Local and Global Complexity Invariant DTW error rate: 19.672131%
+2011-05-14 11:50:56,176 INFO Starting analysis of Lighting7 dataset
+2011-05-14 11:52:39,400 INFO Lighting7 | 1-NN Local Complexity Invariant DTW error rate: 26.027397%
+2011-05-14 11:54:21,759 INFO Lighting7 | 1-NN Local and Global Complexity Invariant DTW error rate: 27.397260%
+2011-05-14 11:54:22,108 INFO Starting analysis of FaceFour dataset
+2011-05-14 11:55:09,694 INFO FaceFour | 1-NN Local Complexity Invariant DTW error rate: 11.363636%
+2011-05-14 11:55:58,232 INFO FaceFour | 1-NN Local and Global Complexity Invariant DTW error rate: 13.636364%
+2011-05-14 11:55:58,245 INFO Starting analysis of ECG200 dataset
+2011-05-14 11:56:34,468 INFO ECG200 | 1-NN Local Complexity Invariant DTW error rate: 13.000000%
+2011-05-14 11:57:09,972 INFO ECG200 | 1-NN Local and Global Complexity Invariant DTW error rate: 15.000000%
+2011-05-14 11:57:10,336 INFO Starting analysis of Trace dataset
+2011-05-14 11:59:56,468 INFO Trace | 1-NN Local Complexity Invariant DTW error rate: 1.000000%
